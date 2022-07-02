@@ -1,0 +1,16 @@
+D:\Alka Learning\dockerapp\taxcalculator\bin\Debug\net5.0\taxcalculator.exe
+D:\Alka Learning\dockerapp\taxcalculator\bin\Debug\net5.0\taxcalculator.deps.json
+D:\Alka Learning\dockerapp\taxcalculator\bin\Debug\net5.0\taxcalculator.runtimeconfig.json
+D:\Alka Learning\dockerapp\taxcalculator\bin\Debug\net5.0\taxcalculator.runtimeconfig.dev.json
+D:\Alka Learning\dockerapp\taxcalculator\bin\Debug\net5.0\taxcalculator.dll
+D:\Alka Learning\dockerapp\taxcalculator\bin\Debug\net5.0\ref\taxcalculator.dll
+D:\Alka Learning\dockerapp\taxcalculator\bin\Debug\net5.0\taxcalculator.pdb
+D:\Alka Learning\dockerapp\taxcalculator\obj\Debug\net5.0\taxcalculator.csproj.AssemblyReference.cache
+D:\Alka Learning\dockerapp\taxcalculator\obj\Debug\net5.0\taxcalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alka Learning\dockerapp\taxcalculator\obj\Debug\net5.0\taxcalculator.AssemblyInfoInputs.cache
+D:\Alka Learning\dockerapp\taxcalculator\obj\Debug\net5.0\taxcalculator.AssemblyInfo.cs
+D:\Alka Learning\dockerapp\taxcalculator\obj\Debug\net5.0\taxcalculator.csproj.CoreCompileInputs.cache
+D:\Alka Learning\dockerapp\taxcalculator\obj\Debug\net5.0\taxcalculator.dll
+D:\Alka Learning\dockerapp\taxcalculator\obj\Debug\net5.0\ref\taxcalculator.dll
+D:\Alka Learning\dockerapp\taxcalculator\obj\Debug\net5.0\taxcalculator.pdb
+D:\Alka Learning\dockerapp\taxcalculator\obj\Debug\net5.0\taxcalculator.genruntimeconfig.cache
